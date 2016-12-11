@@ -20,7 +20,7 @@ F_CPU = 16000000
 
 #BUILD DEPENDENCIES
 TARGET = TOPLEVEL
-SRC = test.c
+SRC = test.c uart.c
 FORMAT = ihex
 
 #DO NOT leave this blank.
